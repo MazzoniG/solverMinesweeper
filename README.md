@@ -1,4 +1,4 @@
-public static void solver(int x, int y) {
+        public static void solver(int x, int y) {
 
         for (int i = 0; i < squareState[i].length; i++) {
             for (int j = 0; j < squareState.length; j++) {
